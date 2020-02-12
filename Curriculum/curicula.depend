@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1581513660 source:d:\poo\curriculum\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Exceptie.h"
+	"Persoana.h"
+	"Profesor.h"
+	"Student.h"
+	"Disciplina.h"
+	"Curicula.h"
+
+1581509571 d:\poo\curriculum\exceptie.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1581509642 d:\poo\curriculum\persoana.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1581511828 d:\poo\curriculum\profesor.h
+	<iostream>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"Persoana.h"
+
+1581511556 d:\poo\curriculum\student.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Persoana.h"
+
+1581513300 d:\poo\curriculum\disciplina.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Profesor.h"
+
+1581510092 d:\poo\curriculum\curicula.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Disciplina.h"
+	"Student.h"
+

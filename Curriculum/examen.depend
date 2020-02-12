@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1581513660 source:d:\poo\examen\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Exceptie.h"
+	"Persoana.h"
+	"Profesor.h"
+	"Student.h"
+	"Disciplina.h"
+	"Curicula.h"
+
+1581509571 d:\poo\examen\exceptie.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1581509642 d:\poo\examen\persoana.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+
+1581511828 d:\poo\examen\profesor.h
+	<iostream>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"Persoana.h"
+
+1581511556 d:\poo\examen\student.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Persoana.h"
+
+1581513300 d:\poo\examen\disciplina.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Profesor.h"
+
+1581510092 d:\poo\examen\curicula.h
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	"Disciplina.h"
+	"Student.h"
+
